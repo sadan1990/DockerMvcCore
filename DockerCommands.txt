@@ -1,0 +1,10 @@
+cls 								- clear powershell screen
+docker							- get all docker commands
+docker images  						- get all images
+docker rmi 549a						- remove a docker image by giving 4 letters of image id (549a)
+docker ps 							- running containers
+docker ps -a						- awaiting containers
+docker stop <3 lettes of container id>		- stop container
+docker build -f "path of solution"			- Build docker images
+
+
